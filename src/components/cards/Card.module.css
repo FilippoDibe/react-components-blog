@@ -15,6 +15,7 @@
     object-fit:contain; 
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+
 }
 .title, .text{
     padding: 8px
