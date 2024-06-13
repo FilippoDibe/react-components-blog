@@ -1,6 +1,6 @@
 import "./Main.css";
 import CardComponent from '../cards/Card';
-import Footer from "../Footer/Footer";
+import Footer from "../footer/Footer";
 const Main = () => {
     return (
         <main className="background">
